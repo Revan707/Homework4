@@ -1,0 +1,59 @@
+.container{
+    text-align: center;
+    
+}
+h1{
+    color: rgb(22, 22, 158);
+    margin-left: 200px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:45px;
+    
+}
+h2{
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.card1, .card2, .card3{
+
+    border-style: solid;
+    border-color: rgb(218, 212, 212);
+    width: 325px;
+    height: 480px;
+    margin: auto;
+    padding: 3px 16px;
+    border-radius: 5px;
+    text-align: center;
+    display: inline-block;
+    margin-left: 15px;
+    margin-top: 5px;
+}
+.card1, .card3{
+       vertical-align: top;
+}
+p{
+    font-size: 17px;
+    color: rgba(53, 50, 50, 0.884);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.img2{
+    margin-top: 65px;
+}
+button{
+    margin: 10px;
+    border-width: 3px;
+    padding: 15px;
+    width: 200px;
+    height: 55px;
+    border-radius:12px;
+    border-color: rgb(198, 195, 195);
+    margin-left: 675px;
+    font-size: 17px;
+    margin-top: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+}
+.img1{
+    width: 25px;
+    height: 15px;
+    margin-left: 40px;
+}
